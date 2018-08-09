@@ -1,5 +1,5 @@
 ---
-name: Publication Board Submission Template
+name: Publication Board Submission
 about: Submit a manuscript for review by the Publication Board
 
 ---
